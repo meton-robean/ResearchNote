@@ -5,3 +5,5 @@ Writing Blogs using github issue and markdown! (inculding Machine Learning algs 
 关注 C/C++. JAVA. Python. Golang. Chisel. 编程语言话题
 
 查看内容请前往issues板块，查看不同内容可以使用issues的标签过滤器.
+
+另外一个repo用于记录paper阅读摘要或者思考： https://github.com/meton-robean/PaperNotes/issues
